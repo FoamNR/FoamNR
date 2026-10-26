@@ -1,34 +1,34 @@
-### Nonthawat Ramkhongmueang (Foam)
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Web+%26+Cross-Platform+Mobile+Engineering;Clean+Architecture+%26+Database+Systems" alt="Typing SVG" />
-</a>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:0284c7&height=200&section=header&text=FOAMNR&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Nonthawat%20Ramkhongmueang%20%7C%20Software%20Engineer%20%2F%20Developer&descSize=18&descAlignY=72)
 
-I specialize in designing and building scalable web applications, offline-first mobile solutions, and developer tools with a strong focus on clean architecture, security, and performance.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Software+Engineer+%2F+Developer;Building+scalable+web+%26+offline-first+mobile+apps;Architecting+clean+APIs+and+database+tooling;Clean+code+%C2%B7+Modular+design+%C2%B7+Security-first)](https://github.com/FoamNR)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nonthawat%20Ramkhongmueang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonthawat-ramkhongmueang)
-[![Email](https://img.shields.io/badge/Email-Foamnonthawat%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Foamnonthawat@gmail.com)
-
----
-
-### Tech Stack & Tools
-
-- **Frontend:** TypeScript, JavaScript, Next.js, Nuxt.js, Tailwind CSS
-- **Backend:** Node.js (Express), Go, C# (.NET), PHP, Python
-- **Mobile:** Flutter, Dart, React-Native
-- **Database:** PostgreSQL, MySQL, SQLite
-- **DevOps & Security:** Docker, Git, Linux, RESTful APIs, JWT Authentication
-
-<br />
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nuxtjs,tailwind,nodejs,go,cs,dotnet,php,flutter,dart,postgres,mysql,sqlite,docker,git&perline=9" alt="Tech Stack" />
 </div>
 
----
+## Profile Specification
 
-### Featured Work & Focus
+```go
+package main
 
-- **[wdmt-database-studio](https://github.com/FoamNR/wdmt-database-studio)** — An open-source database maintenance and management studio.
-- **Mobile Engineering** — Building offline-first Flutter applications and smart community platforms with real-time notifications.
-- **Full-Stack Systems** — Architecting modular web services, booking platforms, and secure database-driven APIs.
+type Engineer struct {
+    Name         string
+    Role         string
+    Location     string
+    CoreStack    []string
+    MobileEngine string
+    FocusAreas   []string
+    OpenSource   string
+}
+
+func GetProfile() Engineer {
+    return Engineer{
+        Name:         "Nonthawat Ramkhongmueang (Foam)",
+        Role:         "Software Engineer / Developer",
+        Location:     "Phitsanulok, Thailand",
+        CoreStack:    []string{"TypeScript", "Next.js", "Nuxt.js", "Node.js", "PHP", "C# .NET"},
+        MobileEngine: "Flutter & Dart",
+        FocusAreas:   []string{"System Architecture", "Web & Mobile Engineering", "Database Tooling", "API Security"},
+        OpenSource:   "[github.com/FoamNR/wdmt-database-studio](https://github.com/FoamNR/wdmt-database-studio)",
+    }
+}
