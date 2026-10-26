@@ -26,7 +26,7 @@
 
 - 💼 **GitHub:** [github.com/FoamNR](https://github.com/FoamNR)
 - 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🔗 **LinkedIn:** [[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/nonthawat-ramkhongmueang/)
 
 ---
 
